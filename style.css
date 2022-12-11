@@ -7,6 +7,7 @@
 /* Hides horizontal scroll bar */
 body {
     overflow-x: hidden;
+    background-color: #F5F1E8;
 }
   
   /* relevant styles */
