@@ -39,3 +39,13 @@ body {
     visibility: visible;
     opacity: 1;
   }
+
+.col-sm {
+  justify-content: center;
+  align-items: center;
+  display: grid;
+}
+
+.card {
+  margin-bottom: 2rem;
+}
